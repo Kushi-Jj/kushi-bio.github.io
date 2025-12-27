@@ -10,11 +10,11 @@ redirect_from:
 Ph.D. Candidate, Industrial & Systems Engineering
 University of Wisconsin–Madison
 
-I am a Ph.D. candidate in Industrial & Systems Engineering and a graduate researcher in the [Neuroergonomics Lab](https://neuroergolab.org/) at the [University of Wisconsin–Madison](https://www.wisc.edu/).I am advised by [Dr. Ranjana Mehta](https://engineering.wisc.edu/directory/profile/ranjana-mehta/). My research focuses on human factors, neuroergonomics, biomechanics, and human-in-the-loop systems, with an emphasis on understanding how fatigue, workload, and environmental stressors affect human performance.
+👨‍🎓 I am a Ph.D. candidate in Industrial & Systems Engineering and a graduate researcher in the [Neuroergonomics Lab](https://neuroergolab.org/) at the [University of Wisconsin–Madison](https://www.wisc.edu/).I am advised by [Dr. Ranjana Mehta](https://engineering.wisc.edu/directory/profile/ranjana-mehta/). My research focuses on human factors, neuroergonomics, biomechanics, and human-in-the-loop systems, with an emphasis on understanding how fatigue, workload, and environmental stressors affect human performance.
 
-I work on the design and execution of long-duration human subject experiments and the analysis of multimodal physiological data, including fNIRS, EMG, eye tracking, heart rate, and full-body kinematics. My goal is to develop data-driven methods to improve system performance, safety, and human well-being in complex operational environments such as spaceflight and emergency response.
+🔬 I work on the design and execution of long-duration human subject experiments and the analysis of multimodal physiological data, including fNIRS, EMG, eye tracking, heart rate, and full-body kinematics. My goal is to develop data-driven methods to improve system performance, safety, and human well-being in complex operational environments such as spaceflight and emergency response.
 
-I received my B.Tech. (Hons.) in Mechatronics Engineering from [The Open University of Sri Lanka](https://ou.ac.lk/) and a B.S. (Hons.) in Physics from the [University of Sri Jayewardenepura](https://www.sjp.ac.lk/), followed by an M.S. in Mechanical Engineering from [Clarkson University](https://www.clarkson.edu/). Previously, I have worked on biomechanics, wearable sensing, adaptive exoskeleton design, and automation systems.
+🎓 I received my B.Tech. (Hons.) in Mechatronics Engineering from [The Open University of Sri Lanka](https://ou.ac.lk/) and a B.S. (Hons.) in Physics from the [University of Sri Jayewardenepura](https://www.sjp.ac.lk/), followed by an M.S. in Mechanical Engineering from [Clarkson University](https://www.clarkson.edu/). Previously, I have worked on biomechanics, wearable sensing, adaptive exoskeleton design, and automation systems.
 
 A list of my publications, projects, and research activities can be found under the relevant tabs. The best way to reach me is via email or LinkedIn.
 
