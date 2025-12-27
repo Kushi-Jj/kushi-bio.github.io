@@ -2,7 +2,7 @@
 title: "Automated Water Dispensing System for Controlling Fires in Coal Yards"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-automated-fire-suppression
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: "This paper presents an automated system for fire suppression in coal yards, improving safety and operational efficiency."
 date: 2022-01-01
 venue: "International Journal of Coal Science and Technology"
