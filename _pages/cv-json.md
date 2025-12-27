@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv-json/
+permalink: /files/Jeevan Jayasuriya Resume.pdf/
 author_profile: false
 redirect_from:
   - /resume-json
