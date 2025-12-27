@@ -2,7 +2,7 @@
 title: "Pulse Rate Variability From Wearable Wristwatches as a Surrogate for Heart Rate Variability? We Think Not Yet"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-prv-hrv-wearables
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: "This study evaluates whether pulse rate variability derived from wrist-worn wearables can reliably substitute heart rate variability measures."
 date: 2024-01-01
 venue: "Proceedings of the Human Factors and Ergonomics Society Annual Meeting"
