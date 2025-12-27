@@ -2,7 +2,7 @@
 title: "Selective Sensorimotor Impairments With Mental Fatigue Associated With G-Transitions During and After Spaceflight"
 collection: publications
 category: conference-papers
-permalink: /publication/2024-spaceflight-fatigue
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: "This paper investigates sensorimotor impairments associated with mental fatigue during and following gravitational transitions in spaceflight."
 date: 2024-01-01
 venue: "Proceedings of the Human Factors and Ergonomics Society Annual Meeting"
